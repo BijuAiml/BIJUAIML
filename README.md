@@ -1,5 +1,10 @@
 
 <div align="center">
+<div align="center">
+  <img src="vibecode" width="100%" alt="Biju Banner">
+</div>
+
+<br>
 
 # Hi there! 👋 I'm Biju B
 
