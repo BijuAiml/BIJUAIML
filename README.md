@@ -1,153 +1,173 @@
-# Hi there! 👋 I'm Biju B
+# 👋 Hi there! I'm Biju B
 
-I'm currently pursuing a Bachelor's degree in **Artificial Intelligence and Machine Learning**, with a strong passion for programming, problem-solving, and exploring emerging technologies. I enjoy building practical AI/ML solutions and continuously improving my technical skills to create impactful real-world applications.
+### 🤖 Artificial Intelligence & Machine Learning Developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Artificial%20Intelligence%20%7C%20Machine%20Learning&fontAlign=50&fontAlignY=40&color=gradient&fontSize=28&fontColor=ffffff" width="100%"/>
-</p>
+I'm currently pursuing a **B.Tech in Artificial Intelligence and Machine Learning** at **Hindusthan College of Engineering and Technology, Coimbatore**.
 
-## 🫶 About Me
-
-- 🎓 **Education:** B.Tech in Artificial Intelligence and Machine Learning  
-  **Hindusthan College of Engineering and Technology, Coimbatore**
-
-- 🌱 **Currently:** Enhancing my programming skills and exploring new technologies
-
-- 🤖 **Interests:** Artificial Intelligence | Machine Learning | Data Science | Generative AI
-
-- 💻 **Programming:** Python | Java | SQL
-
-- 📊 **Data & Analytics:** Power BI | Excel | Pandas | NumPy
-
-- 🚀 **Goal:** Build intelligent, scalable, and real-world solutions
-
-- 🔍 **Currently learning:** Advanced Machine Learning, Generative AI, RAG and Cloud Technologies
-
----
-
-## 🚀 My Tech Stack
-
-### 👨‍💻 Programming Languages
+I'm passionate about **Artificial Intelligence, Machine Learning, Data Analytics, Generative AI, and problem-solving**. I enjoy turning ideas into practical applications and continuously learning new technologies to build real-world solutions.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p align="center">
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,mysql,mongodb,fastapi,flask" />
-</p>
-
-<p align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=AI%20%7C%20ML%20%7C%20Data%20%7C%20GenAI&fontSize=32&fontAlignY=40&color=gradient&fontColor=ffffff" width="100%"/>
 </p>
 
 ---
 
-## 🧠 Featured Projects
+# 🧑‍💻 About Me
 
-### 👁️ Eye Disease Classification & Recommendation System
-
-A deep learning application that classifies retinal images into different eye disease categories and provides recommendations.
-
-**Tech:** Python | TensorFlow | Keras | CNN | OpenCV | Flask
-
-- 🖼️ Dataset: 4,217 retinal images
-- 🧠 CNN-based classification
-- 🎯 Accuracy: ~88%
-- 🌐 Flask web application
+🎓 **Education:** B.Tech – Artificial Intelligence & Machine Learning  
+🏫 **College:** Hindusthan College of Engineering and Technology, Coimbatore  
+💻 **Focus:** Artificial Intelligence | Machine Learning | Data Analytics  
+🐍 **Primary Language:** Python  
+☕ **Also Working With:** Java | SQL  
+🧠 **Currently Learning:** Generative AI | RAG | LLM Applications  
+🚀 **Goal:** Build useful AI-powered real-world solutions  
 
 ---
 
-### 🏭 FactoryGuard AI
+# 🛠️ Tech Stack
 
-An AI-powered predictive maintenance system designed for industrial equipment.
+### 💻 Programming
 
-**Tech:** Python | Machine Learning | Random Forest | XGBoost | SMOTE
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
-- ⚙️ Predicts equipment failures
-- 📊 Uses vibration, temperature and pressure data
-- ⏱️ Designed for early failure prediction
-- 🏭 Focused on manufacturing environments
+### 🤖 AI & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+
+</p>
+
+### 🗄️ Database & Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,fastapi,flask" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+</p>
 
 ---
 
-### 🚇 AI-Driven Train Induction Planning
+# 🚀 Featured Projects
 
-An AI-based planning and scheduling solution designed for metro rail operations.
+## 👁️ Eye Disease Classification & Recommendation System
 
-**Tech:** Python | Machine Learning | Optimization | Data Analysis
+Deep learning-based application for classifying retinal images into different eye disease categories.
 
-- 🚆 Train scheduling
-- 📅 Induction planning
-- ⚡ Operational optimization
+**Tech Stack**
+
+`Python` `TensorFlow` `Keras` `CNN` `OpenCV` `Flask`
+
+- 📊 Dataset: 4,217 retinal images
+- 🧠 CNN-based classification model
+- 🎯 Approximately 88% accuracy
+- 🌐 Flask-based prediction application
+- 💡 Provides recommendations based on prediction results
+
+---
+
+## 🏭 FactoryGuard AI
+
+AI-powered predictive maintenance solution for manufacturing equipment.
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `Random Forest` `XGBoost` `SMOTE`
+
+- ⚙️ Uses sensor data such as vibration, temperature and pressure
+- 🔍 Predicts potential equipment failures
+- ⏱️ Designed for early failure detection
+- 🏭 Focused on industrial predictive maintenance
+
+---
+
+## 🚇 AI-Driven Train Induction Planning
+
+AI-based planning and scheduling solution for metro rail operations.
+
+**Tech Stack**
+
+`Python` `Machine Learning` `Optimization` `Data Analysis`
+
+- 🚆 Train induction planning
+- 📅 Scheduling optimization
 - 📊 Data-driven decision making
+- ⚡ Focused on improving operational efficiency
 
 ---
 
-### 🤖 Real-Time Object Detection
+## 🤖 Real-Time Object Detection
 
-Real-time object detection system using computer vision and deep learning.
+Computer vision application for detecting objects in real time.
 
-**Tech:** Python | YOLO | OpenCV | Deep Learning
+**Tech Stack**
+
+`Python` `YOLO` `OpenCV` `Deep Learning`
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BijuAiml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=BijuAiml&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijuAiml&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijuAiml&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=BijuAiml&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=BijuAiml&theme=tokyonight&hide_border=true" width="70%"/>
 
 </p>
 
 ---
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BijuAiml&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BijuAiml&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </p>
 
 ---
 
-## 🧰 Languages & Tools I Have Worked With
+# 💻 Languages & Tools
 
 <p align="center">
 
@@ -157,124 +177,52 @@ Real-time object detection system using computer vision and deep learning.
 
 ---
 
-## 🌱 Currently Learning
+# 🧠 AI & Data Skills
+
+<p align="center">
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, Java, SQL |
+| Machine Learning | Scikit-learn, XGBoost |
+| Deep Learning | TensorFlow, Keras, PyTorch |
+| Computer Vision | OpenCV, YOLO |
+| Data Science | Pandas, NumPy, Matplotlib |
+| Data Analytics | Power BI, Excel |
+| Generative AI | LLMs, LangChain, RAG |
+| Backend | Flask, FastAPI |
+| Databases | MySQL, MongoDB |
+| Tools | Git, GitHub, VS Code, Jupyter, Colab |
+
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 ```text
 Machine Learning
-        ↓
+      ↓
 Deep Learning
-        ↓
+      ↓
 Generative AI
-        ↓
-RAG Applications
-        ↓
-LangChain + LLM Applications
-        ↓
-Cloud & Deployment
+      ↓
+LLM Applications
+      ↓
+RAG Systems
+      ↓
+AI Agents & Automation
+      ↓
+Cloud Deployment
 ```
 
 ---
 
-## 📚 Areas of Interest
+# 🎯 2026 Goals
 
-<p align="center">
-
-🤖 Artificial Intelligence  
-🧠 Machine Learning  
-📊 Data Science  
-📈 Data Analytics  
-💬 Generative AI  
-🔎 Retrieval Augmented Generation  
-☁️ Cloud Technologies  
-⚙️ Automation  
-
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Strengthen Python and Java
-- ✅ Improve DSA and problem-solving
 - 🚀 Build advanced AI/ML projects
-- 🤖 Learn Generative AI deeply
-- 🔎 Build RAG applications
-- ☁️ Improve Cloud and DevOps skills
-- 💼 Start my career as an AI/ML or Data professional
-- 🌟 Contribute to open-source projects
-
----
-
-## 🏆 Achievements & Activities
-
-<p align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=BijuAiml&label=Profile%20Views&color=blue&style=for-the-badge)
-
-</p>
-
----
-
-## 📌 Popular Repositories
-
-<p align="center">
-
-<a href="https://github.com/BijuAiml">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BijuAiml&repo=Machine-Learning&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/BijuAiml">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BijuAiml&repo=DSA&theme=tokyonight" />
-</a>
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/BijuAiml">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-</p>
-
----
-
-## 💬 Quote
-
-<p align="center">
-
-> "Learning never stops. Every problem is an opportunity to build something better."
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-</p>
+- 🤖 Develop practical Generative AI applications
+- 🔎 Build RAG-based applications
+- 🧠 Improve DSA and problem-solving
+- ☁️ Learn Cloud and AI deployment
+- 🐳
